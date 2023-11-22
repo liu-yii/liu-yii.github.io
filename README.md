@@ -1,3 +1,3 @@
-This the homepage of YiLiu<a href:https://jonbarron.info/>
+This the homepage of [YiLiu](https://yiliu.github.io)
 
-Thanks for the source code: https://jonbarron.info/.
+Thanks for the [source code](https://jonbarron.info/).
