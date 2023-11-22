@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This the homepage of YiLiu<a href:https://jonbarron.info/>
+
+Thanks for the source code: https://jonbarron.info/.
